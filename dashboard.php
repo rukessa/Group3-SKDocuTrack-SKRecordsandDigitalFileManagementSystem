@@ -17,6 +17,5 @@ require "auth_check.php";
 
     <a href="logout.php">Logout</a>
 </div>
-
 </body>
 </html>
