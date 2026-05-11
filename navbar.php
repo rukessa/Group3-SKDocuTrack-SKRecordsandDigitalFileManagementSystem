@@ -27,4 +27,5 @@ $current = basename($_SERVER['PHP_SELF']);
         <a href="logout.php" class="logout-btn">Logout</a>
     </div>
     <h1>Sample Title</h1>
+    <h1>Sample Title</h1>
 </nav>
